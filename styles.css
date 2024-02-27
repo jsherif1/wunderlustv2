@@ -348,9 +348,7 @@ form input {
   border: 3px solid var(--purple);
   font-family: "montserrat";
 }
-#nums {
-  padding: 1em 0;
-}
+
 fieldset {
   display: flex;
   flex-direction: column;
